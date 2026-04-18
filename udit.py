@@ -1,4 +1,4 @@
-# Version 2: Upgraded Python Project (Modular, Persistent, Extensible)
+# Version 3: Upgraded Python Project (Modular, Persistent, Extensible)
 
 import json
 import os
